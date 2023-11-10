@@ -1,0 +1,32 @@
+Class no CSS como usar
+
+.azul {
+  color: rgb(55, 0, 252);
+
+}
+
+.verde-bg {
+  background: rgb(43, 235, 4);
+}
+
+
+ID como usar colocar #na frente
+
+span#exemploId{
+  background-color: red;
+}
+
+Como usar seleção por atributo
+
+a{
+  color: blue;
+}
+/* Links internos, começando com # */
+  a[href^="#"] {
+   background-color: gold;
+}
+
+como usar uma tag
+span{
+  background-color: pink;
+}

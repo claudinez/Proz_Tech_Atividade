@@ -1,0 +1,23 @@
+Variaveis
+   nome : caractere
+   endereco : caractere
+   cpf : real
+   rg : real
+    
+Inicio
+   // Solicitação dos dados pessoais
+   Escreva("Digite o seu nome: ")
+   Leia(nome)
+   
+   Escreva("Digite o seu endereço: ")
+   Leia(endereco)
+   
+   Escreva("Digite a sua cidade: ")
+   Leia(cidade)
+   
+   Escreva("Digite o seu CPF: ")
+   Leia(cpf)
+   
+   Escreva("Digite o seu RG: ")
+   Leia(rg)
+

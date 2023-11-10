@@ -1,0 +1,22 @@
+CÓDIGO FONTE TV. JavaScript (A linguagem mais AMADA e/ou ODIADA 😁) // Dicionário do Programador. 20 set. 2021. Disponível em: https://www.youtube.com/watch?v=Ri76yOpLrNg . Acesso em: 9 mar. 2022.
+
+LUIZ, Andrey. JavaScript #1 - Uma breve história da linguagem. Ship It, 4 ago. 2016. Disponível em:  http://shipit.resultadosdigitais.com.br/blog/javascript-1-uma-breve-historia-da-linguagem/#:~:text=Origens,era%20o%20Mosaic%2C%20da%20NCSA . Acesso em: 9 mar. 2022.
+
+MDN. O que é JavaScript?. Developer, 9 mar. 2022. Disponível em: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript. Acesso em: 11 mar. 2022.
+
+GINAPE. Incluindo Javascript no Documento HTML. Universidade Federal do Rio de Janeiro, [s/d]. Disponível em: http://www.nce.ufrj.br/ginape/js/conteudo/introducao/incluindo.htm. Acesso em: 11 mar. 2022.
+
+OLIVEIRA. Andréa. Linguagem de Programação JavaScript: as principais vantagens. Cursos CPT, [s/d]. Disponível em: https://www.cpt.com.br/cursos-informatica-desenvolvimentodesoftwares/artigos/linguagem-de-programacao-javascript-as-principais-vantagens. Acesso em: 11 mar. 2022.
+
+HORA DE CODAR. Como usar JavaScript para mudar propriedades CSS. [S.d.]. Disponível em: https://horadecodar.com.br/2020/05/27/como-usar-javascript-para-mudar-propriedades-css/. Acesso em: 14 dez. 2022.
+
+JAVASCRIPT TUTORIAL. JavaScript Style. [S.d.]. Disponível em: https://www.javascripttutorial.net/javascript-dom/javascript-style/. Acesso em: 14 dez. 2022.
+
+W3 SCHOOLS. HTML DOM Element style. [S.d.]. Disponível em: https://www.w3schools.com/jsref/prop_html_style.asp. Acesso em: 14 dez. 2022.
+
+SILVÉRIO, Henrique, Manipulando classes com classList API. Henrique Silvério, 23 mar. 2014. Disponível em: http://henriquesilverio.github.io/javascript-e-jquery/manipulando-classes-com-classlist-api. Acesso em: 15 dez. 2022.
+
+JAVASCRIPT TUTORIAL. JavaScript classList. [S.d.]. Disponível em: https://www.javascripttutorial.net/javascript-dom/javascript-classlist/ . Acesso em: 15 dez. 2022.
+
+
+W3 SCHOOLS. HTML DOM Element classList. [S.d.].Disponível em: https://www.w3schools.com/jsref/prop_element_classlist.asp. Acesso em: 15 dez. 2022.

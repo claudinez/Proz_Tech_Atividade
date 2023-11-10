@@ -1,0 +1,57 @@
+
+git init
+
+Comando                       Opções                              Função
+git config user.name “NOME”		                          Definir o nome do usuário que usará Git neste projeto
+
+git config user.name “NOME”	--global (depois de config)       Definir o nome do usuário para todos os projetos neste computador
+
+git config user.email “EMAIL”		                          Definir o email do usuário que usará Git neste projeto
+
+git config user.email “EMAIL”	--global (depois de config)	  Definir o email do usuário para todos os projetos neste computador
+
+
+Comando para commits
+
+Comando 	Opções / Argumento	Função
+git add	        nome_do_arquivo.txt     Adiciona o arquivo especificado à “area de staging”
+git add	        --all ou -A             Adiciona todos os arquivos atuais (novos, atualizados e deletados)
+git commit	-m “MENSAGEM”           Realizar um commit com uma mensagem que o identifique
+git log		                        Mostra os últimos commits do repositório atual
+git status		                Mostrar os arquivos e pastas que estão na área de staging
+
+-----------------------------------------------------------------------
+adicionando um arquivo no git
+
+git add home.txt
+git commit -m "Arquivo home.txt criado"
+
+Modificação ou criação de arquivo novos
+git add -A ou git add --all
+pra ver od arquivos
+git status
+git commit -m "Dois arquivos criados, home.txt alterado"
+============================================================
+Comandos para branches
+Command       Opções/Argumentos  Função
+git branch                       Exibe a lista de branches disponiveis e destaca a branch atual
+git branch    nome-da-branch     Cria uma nova branch
+git checkout  nome-da-branch     Trocar o HEAD, ou ponteiro, para a branch indicada
+============================================================
+git branch nova-branch
+git checkout nova-branch
+git branch
+git branch
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Atividade:
+criar um arquivo script.js dentro da pasta conexão-html-js;
+conectar esse arquivi JS com o index.html por meio da tag scrip
+dentro do script.js, capturar os seguintes elementos do DOM com o uso do getElementById e getElementByClassName:
+-> post 02
+-> formulario
+-> section com ambos os posts
+-> data dos posts
+-> textos dos posts
+-> listas com os links das redes sociais

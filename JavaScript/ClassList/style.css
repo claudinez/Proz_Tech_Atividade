@@ -1,0 +1,20 @@
+div {
+    background-color: lightblue;
+    width: 250px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .borda-azul {
+    border: solid 4px darkblue;
+  }
+  
+  
+  
+  .texto-novo {
+    color: #dc143c;
+    font-weight: 800;
+  }
+  

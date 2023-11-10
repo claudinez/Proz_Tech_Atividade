@@ -1,0 +1,10 @@
+---Live Server
+O Live Server oferece uma maneira fácil de servir páginas estáticas e dinâmicas a partir do VS Code, oferecendo suporte a live reloading. Se você está familiarizado com algum plugin de navegador ou qualquer um dos pacotes npm que servem para isso, com certeza você vai gostar dessa extensão.
+
+---npm Intellisense
+O desenvolvimento front end moderno usa pacotes e bibliotecas em grande número, até para projetos dos mais simples. Não ajuda bastante um autocomplete para todos eles?
+É justamente este o papel do npm Intellisense para VS Code: o plugin autocompleta módulos npm e import statements.
+
+---Import Cost
+Dentro de uma compilação com as melhores extensões Visual Studio Code para JavaScript, não poderia faltar uma para aquela ajuda monstro em performance, hã?
+A extensão Import Cost permite que você veja o tamanho de um módulo importado no JavaScript. Ela ajuda você a avaliar se importar uma biblioteca inteira é realmente necessário ou apenas um utilitário específico necessário.

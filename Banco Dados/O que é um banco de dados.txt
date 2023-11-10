@@ -1,0 +1,37 @@
+LVES, Gustavo. O que é um banco de dados?. Dicas de programação, [s/d]. Disponível em: https://dicasdeprogramacao.com.br/o-que-e-um-banco-de-dados/. Acesso em: 17 mar. 2022.
+
+ELMASRI, Ramez E.; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 4 ed. Boston: Pearson Addison-Wesley, 2008.
+
+HEUSER, Carlos Alberto. Projeto de banco de dados. Vol. 4. Porto Alegre: Bookman Editora, 2009.
+
+SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de Banco de Dados. 5 ed. Rio de Janeiro: Campus, 2006.
+
+Existem ferramentas on-line destinadas à criação de cada um desses modelos vistos. Uma dessas é o brModelo, que é simples e de fácil uso. 
+
+AULA 02 - Modelo de Entidade-Relacionamento (MER). Metrópole Digital, [s/d]. Disponível em: https://materialpublic.imd.ufrn.br/curso/disciplina/3/45/2/7. Acesso em: 22 mar. 2022.
+
+ELMASRI, Ramez E.; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 4 ed. São Paulo: Pearson Addison-Wesley, 2008.
+
+SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de Banco de Dados. 5 ed. Rio de Janeiro: Campus, 2006.
+
+DESCOMPLICA, OLIBA!. Álgebra Relacional em Bancos de Dados - Operações Unárias (Seleção, Projeção). YouTube, 6 jul. 2020. Disponível em:  https://www.youtube.com/watch?v=E-tIwv8jDhE. Acesso em: 10 nov. 2022.
+
+DESCOMPLICA, OLIBA!. Operações sobre Conjuntos de Dados - União, Intersecção e Diferença - Álgebra Relacional de Dados. YouTube, 20 jul. 2020. Disponível em: https://www.youtube.com/watch?v=J3BlrfLkC0A. Acesso em: 10 nov. 2022.
+
+DATE, Christopher J. Introdução a Sistemas de Bancos de Dados. Rio de Janeiro: Campus, 2004.
+
+ELMASRI, Ramez E., NAVATHE, Shamkant B. Sistemas de Banco de Dados. 4 ed. São Paulo: Pearson Addison-Wesley, 2008.
+
+HEUSER, Carlos Alberto. Projeto de Banco de Dados. 2 ed. Rio de Janeiro: Campus, 2008.
+
+MONTEIRO, Emiliano Soares. Projetos de Sistemas e Bancos de Dados. Rio de Janeiro: Brasport, 2004.
+
+CURSO EM VÍDEO. Curso MySQL #01 - O que é um Banco de Dados?. 15 fev. 2016. Disponível em: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r. Acesso em: 8 abr. 2022.
+
+HCODE. MySQL 8 - Instalando e Configurando. YouTube, 3 dez. 2018. Disponível em: https://www.youtube.com/watch?v=KYaZVqHHXpM. Acesso em: 16 nov. 2022.
+
+SILBERSCHATZ, Abraham, KORTH, Henry F., SUDARSHAN, S. Sistema de Banco de Dados. 5 ed. Rio de Janeiro: Campus, 2006. 
+
+SQL Tutorial. W3Schools, [s/d]. Disponível em: https://www.w3schools.com/sql/. Acesso em: 8 abr. 2022.
+
+BÓSON TREINAMENTOS. Modelagem de Dados - Chave Primária, Estrangeira e outras. 31 ago. 2017.  Disponível em: https://www.youtube.com/watch?v=sbIT5UXTEg8. Acesso em: 16 mar. 2022.

@@ -1,0 +1,78 @@
+OLIVEIRA SOARES, Pedro. Funções no JavaScript. Disponível em: [https://encontreseucodigo.com.br/aprenda-javascript/aprenda-funcoes-no-javascript/](https://encontreseucodigo.com.br/aprenda-javascript/aprenda-funcoes-no-javascript/). Acesso em: 15 de nov. 2022
+
+Curso em Vídeo. Funções - Curso JavaScript #16. Disponível em: [https://www.youtube.com/watch?v=mc3TKp2XzhI](https://www.youtube.com/watch?v=mc3TKp2XzhI). Acesso em: 15 de nov. de 2022
+
+DPW. Arrow Functions vs. Functions em JavaScript. Disponível em: [https://www.youtube.com/watch?v=S5Mn0qQzJ-0](https://www.youtube.com/watch?v=S5Mn0qQzJ-0). Acesso em: 15 de nov. 2022
+
+TableLess. Inserindo JS na página. Disponível em: https://tableless.github.io/iniciantes/manual/js/inserindo-js.html. Acesso em: 17 de nov. 2022
+
+W3Schools. HTML <script> defer Attribute. Disponível em: https://www.w3schools.com/tags/att_script_defer.asp. Acesso em 17 de nov. 2022
+
+W3Schools. HTML DOM documents. Disponível em: https://www.w3schools.com/jsref/dom_obj_document.asp Acesso em: 20 de nov. 2022
+
+W3Schools. DOM HTMLCollection. Disponível em: https://www.w3schools.com/jsref/dom_obj_htmlcollection.asp Acesso em: 20 de nov. 2022 
+
+Curso em Vídeo. Introdução ao DOM – Curso JavaScript #09. Disponível em: https://www.youtube.com/watch?v=WWZX8RWLxIk Acesso em: 20 de nov. 2022 
+
+MACHADO, Alexandre. Diferenças entre innerHTML, innerText e textContent. MundoJS, [s.l.], 18 jul. 2022. Disponível em: https://www.mundojs.com.br/2019/07/18/diferencas-entre-innerhtml-innertext-e-textcontent/. Acesso em: 12 dez. 2022.
+
+MATHEUS BATTISTI - HORA DE CODAR. Diferença entre innerHTML e innerText em JavaScript. YouTube, 17 mar. 2021. Disponível em: https://www.youtube.com/watch?v=vKyWPpDK1Qw. Acesso em: 12 dez. 2022.   
+
+ALÉM DO CÓDIGO. #Dica - Template Strings - JavaScript. YouTube, 30 dez. 2020. Disponível em: https://www.youtube.com/watch?v=IteHDhLWriM. Acesso em: 12 dez. 2022.
+
+TEMPLATE Strings. MDN Web Docs, [s.d.]. Disponível em: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals. Acesso em: 12 dez. 2022. 
+
+DEVFURIA. JavaScript - Create Element (DOM). [S.d.]. Disponível em: http://devfuria.com.br/javascript/dom-create-element. Acesso em: 12 dez. 2022.
+
+SOFTAUTHOR. append() vs appendChild JavaScript. [S.d.]. Disponível em: https://softauthor.com/append-vs-appendchild-javascript/. Acesso em: 12 dez. 2022.
+
+MATHEUS BATTISTI - HORA DE CODAR. Curso JavaScript #38 - Criando elementos com DOM (createElement). YouTube, 18 ago. 2020. Disponível em: https://www.youtube.com/watch?v=eC-z9oHLzBc. Acesso em: 12 dez. 2022.
+
+DEV APRENDER. Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos. 14 mar. 2020. Disponível em: https://www.youtube.com/watch?v=i6Oi-YtXnAU&ab_channel=DevAprender. Acesso em: 12 dez. 2022.
+
+FLÁVIO COUTINHO. [JS4 - tópico 2] Criando elementos HTML dinamicamente com JavaScript. 24 ago. 2019. Disponível em: https://www.youtube.com/watch?v=yWq3V4sRuVU&. Acesso em: 12 dez. 2022.
+
+MDN WEB DOCS. Introdução a eventos. [S.d.]. Disponível em: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events. Acesso em: 10 dez. 2022
+
+LIANG, Joe. O método addEventListener() - exemplo de código com listener de eventos em JavaScript. Free Code Camp, 19 out. 2022. Disponível em: https://www.freecodecamp.org/portuguese/news/o-metodo-addeventlistener-exemplo-de-codigo-com-listener-de-eventos-em-javascript/. Acesso em: 10 dez. 2022
+
+CFBCURSOS. Adicionando eventos com addEventListener em Javascript #P1 - Curso de Javascript Moderno - Aula 34. 5 out. 2022. Disponível em: https://www.youtube.com/watch?v=4vCBmu3z5FY. Acesso em: 10 dez. 2022
+
+ZEMEL, Tárcio. Eventos JavaScript. DPW, 3 fev. 2014. Disponível em: https://desenvolvimentoparaweb.com/javascript/eventos-javascript/ Acesso em: 16 dez. 2022.
+
+CFB CURSOS. JavaScript- 32- Eventos. [S.d.]. Disponível em: https://cfbcursos.com.br/javascript-32-eventos/ Acesso em: 16 dez. 2022.
+
+
+LUCAS NOVAES- PROGRAMAÇÃO. JAVASCRIPT DOS DESESPERADOS - Eventos de Mouse (click, mouseout e mouseover).8 jul. 2022. Disponível em: https://www.youtube.com/watch?v=EMyuLJf17oY&ab_channel=LucasNovaes-Programa%C3%A7%C3%A3o Acesso em: 16 dez. 2022.
+
+JAVASCRIPT Básico: Eventos no JavaScript 14 (Parte 2). Mundo JS, 25 jun. 2019. Disponível em: https://www.mundojs.com.br/2019/06/25/javascript-basico-eventos-no-javascript-parte-2/. Acesso em: 20 dez. 2022.
+
+ONYEJIAKU, Theodore Kelechukwu. What is event.target in JavaScript?. Educative, [s.d.]. Disponível em: https://www.educative.io/answers/what-is-eventtarget-in-javascript Acesso em: 20 dez. 2022.
+
+
+CFB Cursos. Entendo como usar o método target [event.target] em jQuery [jQuery] - Curso de jQuery - Aula 08. 24 fev. 2022. Disponível em: https://www.youtube.com/watch?v=Uvdu9fldy0s&ab_channel=CFBCursos Acesso em: 20 dez. 2022.
+
+LUIS TAVARES. JavaScript - Aula 16 - Eventos do teclado. 2 set. 2020. Disponível em: https://www.youtube.com/watch?v=BjpW7-7Q38g&ab_channel=LuisTavares. Acesso em: 21 dez. 2022.
+
+KARIUKI, Benso. Introduction to Keyboard Events in JavaScript. Section,19 mar. 2021. Disponível em: https://www.section.io/engineering-education/keyboard-events-in-javascript/. Acesso em: 21 dez. 2022.
+
+
+DEVMEDIA. Como usar a propriedade Position - CSS. [S.d.]. Disponível em: https://www.devmedia.com.br/como-usar-a-propriedade-position-css/24451. Acesso em: 21 dez. 2022.
+
+RICARDO. Alert em JavaScript. Devmedia, 2016. Disponível em: https://www.devmedia.com.br/alert-em-javascript/37208. Acesso em: 21 dez. 2022.
+
+RICARDO. Alert em JavaScript. Devmedia, 2016. Disponível em: https://www.devmedia.com.br/alert-em-javascript/37208. Acesso em: 21 dez. 2022.
+
+Event.preventDefault(). MDN Web Docs, 19 nov. 2022. Disponível em: https://developer.mozilla.org/pt-BR/docs/Web/API/Event/preventDefault. Acesso em: 21 dez. 2022.
+
+NOLETO, Cairo. Javascript alert, confirm e prompt: caixas de diálogo Popup!. Be Trybe, 25 fev. 2022. Disponível em: https://blog.betrybe.com/javascript/javascript-alert/. Acesso em: 21 dez. 2022.
+
+RICARDO. Trabalhando com eventos em JavaScript. Dev Media, 2013. Disponível em: https://www.devmedia.com.br/trabalhando-com-eventos-em-javascript/28521. Acesso em: 23 dez. 2022.
+
+GALLO, Vanessa. Eventos com JavaScript. Computer Science Master, 6 mar. 2022. Disponível em: https://www.computersciencemaster.com.br/eventos-com-javascript/ Acesso em: 23 dez. 2022.
+
+GoPHP. 34 - Form Events | Events in JavaScript | JavaScript Tutorial for Beginners. 11 jun. 2020. Disponível em: https://www.youtube.com/watch?v=YUIHbcOjdKM. Acesso em: 23 dez. 2022.
+
+FACUL IV2. JavaScript - addEventListener. YouTube, 25 fev. 2022. Disponível em: https://www.youtube.com/watch?v=RCLZ9h2Z8Ho. Acesso em: 3 jan. 2023.
+
+MATHEUS BATTISTI - HORA DE CODAR. Curso JavaScript #50 - Eventos mouseover e mouseout. YouTube, 30 ago. 2020. Disponível em: https://www.youtube.com/watch?v=U8-NbkaDJf0. Acesso em: 3 jan. 2023.
