@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone",
+    "marca": "Samsung",
+    "categoria": "Eletrônicos",
+    "preco": 999.99,
+    "quantidade_em_estoque": 10,
+    "disponivel_para_pronta_entrega": true
+  },
+  {
+    "id": 2,
+    "nome": "Notebook",
+    "marca": "Dell",
+    "categoria": "Computadores",
+    "preco": 1499.99,
+    "quantidade_em_estoque": 5,
+    "disponivel_para_pronta_entrega": false
+  },
+  {
+    "id": 3,
+    "nome": "Fone de Ouvido",
+    "marca": "Sony",
+    "categoria": "Acessórios",
+    "preco": 79.99,
+    "quantidade_em_estoque": 20,
+    "disponivel_para_pronta_entrega": true
+  }
+]
